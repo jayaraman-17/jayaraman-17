@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Glad you're here — I'm Jayaraman
 
-<!--
-**jayaraman-17/jayaraman-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Data Analyst who loves turning raw, messy datasets into clear business insights. My focus is on data analysis, KPI dashboards, and building data-driven narratives that help teams make better decisions — faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Bring
+
+- Querying and transforming data with **SQL** and **Python** (Pandas, NumPy)
+- Building interactive dashboards and reports in **Excel**, with **Power BI** & **Tableau**
+- Exploratory data analysis and visual storytelling using **Matplotlib**
+- Deep interest in translating business questions into data questions
+
+---
+
+## 🛠️ Tech Stack
+
+| Category  | Tools                                              |
+|-----------|----------------------------------------------------|
+| Languages | Python, SQL                                        |
+| Tools     | Excel, Power BI, Tableau                           |
+| Libraries | Pandas, NumPy, Matplotlib                          |
+
+---
+
+## ⚡ Quick Fact
+
+Every project here starts with a business question — not just a dataset.  
+I care about the **"so what?"** as much as the numbers themselves.
